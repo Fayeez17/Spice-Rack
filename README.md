@@ -8,6 +8,10 @@ Users can browse through suggested recipes, view detailed cooking instructions.
 
 This project was completed for a college course at the Government Polytechnic Panaji, Goa.
 
+These are the people who contributed to the project.
+1.Sparsh Manohar
+2.Abhishek Haldankar
+3.Mohammed Fayeez
 
 
 
